@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="batch-process" />
+        <module name="canal-kafka" />
+        <module name="hdfs-test" />
+        <module name="real-process" />
+        <module name="report" />
+        <module name="syncdb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="batch-process" target="1.8" />
+      <module name="batchprocess" target="1.8" />
+      <module name="canal-kafka" target="1.8" />
+      <module name="canalkafka" target="1.8" />
+      <module name="hdfs-test" target="1.8" />
+      <module name="pyg" target="1.8" />
+      <module name="real-process" target="1.8" />
+      <module name="realprocess" target="1.8" />
+      <module name="report" target="1.8" />
+      <module name="syncdb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
