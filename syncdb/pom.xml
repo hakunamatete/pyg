@@ -15,7 +15,7 @@
     <properties>
         <scala.version>2.11</scala.version>
         <flink.version>1.7.2</flink.version>
-        <hadoop.version>2.7.6</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
         <hbase.version>1.2.5</hbase.version>
     </properties>
 
